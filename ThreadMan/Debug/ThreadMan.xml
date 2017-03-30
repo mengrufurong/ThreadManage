@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThreadInfoDto>
+  <TimeSpan>60</TimeSpan>
+  <ProcessInfos>
+    <ProcessInfo>
+      <PathFile>F:\IISSite\test_无为\Smartiot.ConfigTool.Service\SmartIot.ConfigTool.Service.exe</PathFile>
+      <ProcessType>exe</ProcessType>
+      <ProcessName>SmartIot.ConfigTool.Service.exe</ProcessName>
+      <Status>true</Status>
+      <Count>26</Count>
+    </ProcessInfo>
+    <ProcessInfo>
+      <PathFile>C:\Program Files (x86)\Tencent\QQ\Bin\QQ.exe</PathFile>
+      <ProcessType>exe</ProcessType>
+      <ProcessName>QQ.exe</ProcessName>
+      <Status>true</Status>
+      <Count>9</Count>
+    </ProcessInfo>
+  </ProcessInfos>
+  <ServiceInfos />
+</ThreadInfoDto>

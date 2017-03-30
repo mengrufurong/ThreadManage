@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadMan", "ThreadMan\ThreadMan.csproj", "{10554378-D554-41A5-912F-8FB9BE77DBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadConfigForm", "ThreadConfigForm\ThreadConfigForm.csproj", "{7494E74E-50B3-4772-A741-E2979FF193B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10554378-D554-41A5-912F-8FB9BE77DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10554378-D554-41A5-912F-8FB9BE77DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10554378-D554-41A5-912F-8FB9BE77DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10554378-D554-41A5-912F-8FB9BE77DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7494E74E-50B3-4772-A741-E2979FF193B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7494E74E-50B3-4772-A741-E2979FF193B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7494E74E-50B3-4772-A741-E2979FF193B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7494E74E-50B3-4772-A741-E2979FF193B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

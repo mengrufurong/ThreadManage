@@ -1,0 +1,179 @@
+﻿#Software: ThreadMan
+#ProcessID: 5464
+#AppDomain: ThreadMan.vshost.exe
+#FileName: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 7 Service Pack 1 x64, Administrator/2013-20160601XH
+#CPU: 4
+#Memory: 2,631M/7,934M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:38:02.502  9 N - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+13:38:02.517  9 N - ThreadMan    v1.0.0.0       Build 2000-01-01
+13:38:02.517  9 N - Setting的配置文件Config\Core.config 不存在，准备用默认配置覆盖！
+13:38:02.656  9 N - ThreadInfoDto的配置文件ThreadMan.xml 不存在，准备用默认配置覆盖！
+
+#Software: ThreadMan
+#ProcessID: 1900
+#AppDomain: ThreadMan.vshost.exe
+#FileName: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 7 Service Pack 1 x64, Administrator/2013-20160601XH
+#CPU: 4
+#Memory: 2,633M/7,934M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:43:48.754  8 N - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+13:43:48.769  8 N - ThreadMan    v1.0.0.0       Build 2000-01-01
+13:43:48.769  8 N - 配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml格式不一致，保存为最新格式！
+
+#Software: ThreadMan
+#ProcessID: 4852
+#AppDomain: ThreadMan.vshost.exe
+#FileName: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 7 Service Pack 1 x64, Administrator/2013-20160601XH
+#CPU: 4
+#Memory: 2,498M/7,934M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:51:05.883 10 N - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+13:51:05.897 10 N - ThreadMan    v1.0.0.0       Build 2000-01-01
+13:51:05.897 10 N - 配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml格式不一致，保存为最新格式！
+
+#Software: ThreadMan
+#ProcessID: 7488
+#AppDomain: ThreadMan.vshost.exe
+#FileName: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 7 Service Pack 1 x64, Administrator/2013-20160601XH
+#CPU: 4
+#Memory: 2,324M/7,934M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:43:42.314 11 Y - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+14:43:42.328 11 Y - ThreadMan    v1.0.0.0       Build 2000-01-01
+14:43:42.328 11 Y - 配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml格式不一致，保存为最新格式！
+
+#Software: ThreadMan
+#ProcessID: 1084
+#AppDomain: ThreadMan.vshost.exe
+#FileName: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 7 Service Pack 1 x64, Administrator/2013-20160601XH
+#CPU: 4
+#Memory: 2,056M/7,934M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:43:27.317 10 Y - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+15:43:27.331 10 Y - ThreadMan    v1.0.0.0       Build 2000-01-01
+15:43:27.331 10 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+
+#Software: ThreadMan
+#ProcessID: 2060
+#AppDomain: ThreadMan.vshost.exe
+#FileName: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 7 Service Pack 1 x64, Administrator/2013-20160601XH
+#CPU: 4
+#Memory: 2,057M/7,934M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:44:20.428 10 Y - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+15:44:20.441 10 Y - ThreadMan    v1.0.0.0       Build 2000-01-01
+15:44:20.441 10 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:44:40.276 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:44:55.296 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:45:10.321 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:45:25.340 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:45:40.366 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:45:55.391 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:46:10.410 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:46:25.436 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:46:40.462 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:46:55.479 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:47:10.506 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:47:25.525 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:47:40.550 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:47:55.576 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:48:10.594 10 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:48:25.620 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:48:40.640 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:48:55.664 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:49:10.690 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:49:25.707 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:49:40.734 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:49:55.760 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:50:10.777 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:50:25.804 11 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+15:50:40.821 13 Y - ThreadMan.ThreadInfoDto的配置文件D:\test\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+
+#Software: ThreadMan
+#ProcessID: 12936
+#AppDomain: ThreadMan.vshost.exe
+#FileName: F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 10.0 x64, 张睿/DESKTOP-7JHJBJA
+#CPU: 8
+#Memory: 3,454M/8,105M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+21:02:01.780  6 Y - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+21:02:01.796  6 Y - ThreadMan    v1.0.0.0       Build 2000-01-01
+21:02:01.796  6 Y - ThreadMan.ThreadInfoDto的配置文件F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+
+#Software: ThreadMan
+#ProcessID: 12336
+#AppDomain: ThreadMan.vshost.exe
+#FileName: F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 10.0 x64, 张睿/DESKTOP-7JHJBJA
+#CPU: 8
+#Memory: 3,479M/8,105M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+21:03:43.694 11 Y - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+21:03:43.694 11 Y - ThreadMan    v1.0.0.0       Build 2000-01-01
+21:03:43.694 11 Y - ThreadMan.ThreadInfoDto的配置文件F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+21:04:03.503 11 Y - ThreadMan.ThreadInfoDto的配置文件F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml有更新，重新加载配置！
+
+#Software: ThreadMan
+#ProcessID: 6184
+#AppDomain: ThreadMan.vshost.exe
+#FileName: F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.vshost.exe
+#BaseDirectory: F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\
+#ApplicationType: Console
+#CLR: 4.0.30319.42000
+#OS: Windows 10.0 x64, 张睿/DESKTOP-7JHJBJA
+#CPU: 8
+#Memory: 3,501M/8,105M
+#Date: 2017-03-27
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+21:50:16.406 10 N - NewLife.Core v6.3.2017.0320 Build 2017-03-27 11:06:10
+21:50:16.406 10 N - ThreadMan    v1.0.0.0       Build 2000-01-01
+21:50:16.406 10 N - 配置文件F:\ThreadManage\ThreadMan\ThreadMan\bin\Debug\ThreadMan.xml格式不一致，保存为最新格式！
